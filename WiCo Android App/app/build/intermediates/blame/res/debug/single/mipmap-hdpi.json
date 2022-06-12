@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bulb.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\bulb.png"
+    },
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_wico.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\icon_wico.png"
+    },
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launch_screen.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\launch_screen.png"
+    },
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\switch_on.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wifi_icon.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\wifi_icon.png"
+    },
+    {
+        "merged": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\switch_off.png",
+        "source": "E:\\MAJU\\FYP1\\WiCo Android App\\app\\src\\main\\res\\mipmap-hdpi\\switch_off.png"
+    }
+]
